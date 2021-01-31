@@ -17,7 +17,7 @@ setuptools.setup(
     description=DESCRIPTION,
     long_description=LONG_DESCRIPTION,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/SJ-Kheiru/SandboxCommandRunner",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
