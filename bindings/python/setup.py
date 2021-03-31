@@ -9,7 +9,7 @@ LONG_DESCRIPTION = "Python package excuting and running program file"
 
 
 setuptools.setup(
-    name="CommandRunner",
+    name="SandboxCommandRunner",
     version=VERSION,
     author=AUTHOR,
     author_email=AUTHOR_EMAIL,
